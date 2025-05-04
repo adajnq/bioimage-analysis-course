@@ -1,6 +1,6 @@
 # Welcome to the Bioimage Analysis Course Repository! 🎉
 
-Welcome to the Bioimage Analysis course! This repository is designed to guide you through the essential techniques and tools used in bioimage analysis.
+Welcome to the Bioimage Analysis course! This repository is designed to guide you through the essential techniques and Python tools used in bioimage analysis.
 
 Throughout this course, you'll learn about:
 
@@ -21,6 +21,6 @@ Throughout this course, you'll learn about:
 - **Installation Instructions:** A step-by-step guide to set up your environment from scratch, including instructions for installing GIT, VS Code, and Python.
 - **Additional Resources:** Links to further readings, software tools, and references to deepen your understanding.
 
-Feel free to open issues if you have any questions, encounter bugs, I am here to help!
+Feel free to open issues if you have any questions or encounter bugs, I am here to help!
 
-Happy learning, and we hope you enjoy your journey into the fascinating world of bioimage analysis! 🌱🔬
+Happy learning, and hope you enjoy your journey into the fascinating world of bioimage analysis! 🌱🔬
